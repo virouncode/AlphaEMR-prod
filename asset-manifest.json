@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbcc1af3.css",
-    "main.js": "/static/js/main.82d6a47c.js",
+    "main.css": "/static/css/main.53e3785e.css",
+    "main.js": "/static/js/main.b487c2b1.js",
     "static/js/703.ca6ff709.chunk.js": "/static/js/703.ca6ff709.chunk.js",
-    "static/js/513.ad820b92.chunk.js": "/static/js/513.ad820b92.chunk.js",
+    "static/js/513.1d1583cc.chunk.js": "/static/js/513.1d1583cc.chunk.js",
     "static/media/splash.jpg": "/static/media/splash.bf47c3b18db67d5c5c39.jpg",
     "static/media/doctor.jpg": "/static/media/doctor.bbb8d89b027826929743.jpg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
@@ -16,15 +16,15 @@
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.146404900f7550a9719d.ttf",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
     "static/media/avatar.png": "/static/media/avatar.2e4ef16d1cbc3b27f9d7.png",
-    "static/media/logo.png": "/static/media/logo.39f3ee9f392632aa593e.png",
+    "static/media/calvinEMRLogo.png": "/static/media/calvinEMRLogo.00783ef69a4acbdfe72f.png",
     "index.html": "/index.html",
-    "main.dbcc1af3.css.map": "/static/css/main.dbcc1af3.css.map",
-    "main.82d6a47c.js.map": "/static/js/main.82d6a47c.js.map",
+    "main.53e3785e.css.map": "/static/css/main.53e3785e.css.map",
+    "main.b487c2b1.js.map": "/static/js/main.b487c2b1.js.map",
     "703.ca6ff709.chunk.js.map": "/static/js/703.ca6ff709.chunk.js.map",
-    "513.ad820b92.chunk.js.map": "/static/js/513.ad820b92.chunk.js.map"
+    "513.1d1583cc.chunk.js.map": "/static/js/513.1d1583cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbcc1af3.css",
-    "static/js/main.82d6a47c.js"
+    "static/css/main.53e3785e.css",
+    "static/js/main.b487c2b1.js"
   ]
 }
